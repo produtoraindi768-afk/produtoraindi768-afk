@@ -7,9 +7,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,50:292524,100:44403c&height=200&section=header&text=Fernando%20Cruz&fontSize=46&fontColor=e7e5e4&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-end%20%C2%B7%20React%2C%20TypeScript%20%26%20interfaces%20acess%C3%ADveis&descSize=15&descAlignY=58&descAlign=50"/>
+<h1>Fernando Cruz</h1>
+<h3>Desenvolvedor Full Stack · React, TypeScript & APIs</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=a8a29e&center=true&vCenter=true&width=620&lines=Next.js+%C2%B7+React+%C2%B7+TypeScript;Design+systems+%2B+tokens+OKLCH;WCAG+AA+%C2%B7+Supabase+%C2%B7+Firebase)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=a8a29e&center=true&vCenter=true&width=640&lines=Desenvolvedor+Full+Stack;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;Supabase+%C2%B7+Firebase+%C2%B7+REST+APIs;Design+systems+%2B+WCAG+AA+%C2%B7+tokens+OKLCH)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,9 +27,9 @@
 
 ## 👋 Olá! Eu sou o Fernando Cruz
 
-Profissional com formação técnica em **Web Design** (Senac RS) e trajetória prática em **React, Next.js e TypeScript**. Construo interfaces responsivas a partir do **Figma**, com **Tailwind CSS**, **shadcn/ui** e integrações via **APIs REST**, **Supabase** e **Firebase**.
+**Desenvolvedor Full Stack** com formação em **Web Design** (Senac RS). Atuo de ponta a ponta: **interfaces** em React/Next.js/TypeScript e **backend** com **Node.js**, **Python**, **Supabase** e **Firebase** — APIs REST, auth, banco de dados e deploy.
 
-Combinando olhar de produto com código organizado, priorizo **acessibilidade (WCAG AA)**, **performance** e colaboração com times de backend, design e produto.
+No front, trabalho com **Figma**, **Tailwind CSS** e **shadcn/ui**; no back, integrações server-side, RLS, storage e automações. Combino olhar de produto com código organizado, priorizando **acessibilidade (WCAG AA)**, **performance** e entrega em times multidisciplinares.
 
 📍 Rivera, UY · **Remoto**
 
@@ -38,7 +39,7 @@ Combinando olhar de produto com código organizado, priorizo **acessibilidade (W
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,nodejs,python,firebase,supabase,git,figma,vscode&perline=7" alt="ícones das tecnologias"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python,firebase,supabase,postgres,tailwind,html,css,git,figma,vscode&perline=7" alt="ícones das tecnologias"/>
 
 </div>
 
@@ -48,33 +49,31 @@ Combinando olhar de produto com código organizado, priorizo **acessibilidade (W
 <tr>
 <td valign="top" width="50%">
 
-**Linguagens**
-- JavaScript (ES6+)
-- TypeScript
-- HTML5 & CSS3
-- Python (automação & APIs)
+**Front-end**
+- React · Next.js (App Router, SSR)
+- TypeScript · JavaScript (ES6+)
+- Tailwind CSS · shadcn/ui · HTML/CSS
+- react-hook-form · TipTap · Lucide
 
-**Frameworks & bibliotecas**
-- React · Next.js (App Router)
-- Tailwind CSS · shadcn/ui
-- react-hook-form · TipTap
+**Back-end & dados**
+- Node.js · Python
+- REST APIs · integrações assíncronas
+- Supabase (Auth, Postgres, RLS, Storage)
+- Firebase (Auth, Firestore, Hosting)
 
 </td>
 <td valign="top" width="50%">
 
-**Integrações & dados**
-- REST APIs · Supabase · Firebase
-- Auth, Firestore, Storage
-- Node.js (noções)
+**Full Stack na prática**
+- Server Components & rotas API (Next.js)
+- Contratos de API, segurança e consistência de dados
+- Automação (Python · Telegram API)
+- Deploy: Vercel · variáveis de ambiente
 
 **Design & qualidade**
-- Figma · design systems
-- Tokens OKLCH · responsividade
-- WCAG AA · handoff próximo ao design
-
-**Ferramentas**
+- Figma · design systems · tokens OKLCH
+- WCAG AA · responsividade
 - Git · GitHub · VS Code · Cursor
-- Vercel · Scrum/Kanban (contexto de produto)
 
 </td>
 </tr>
@@ -89,21 +88,21 @@ Combinando olhar de produto com código organizado, priorizo **acessibilidade (W
 <td width="50%" valign="top">
 
 ### 🏨 Liiv — Dashboard do Investidor
-`2025 — atual` · **Next.js · TypeScript · Supabase**
+`2025 — atual` · **Full Stack · Next.js · Supabase**
 
-Portal logado para investidores: relatórios em PDF, KPIs por empreendimento, mural de comunicados e área administrativa com convites por e-mail.
+Portal logado para investidores: relatórios em PDF, KPIs, mural de comunicados e painel admin com convites por e-mail.
 
-- UI com **Tailwind**, **shadcn/ui**, temas e tokens alinhados ao brand book
-- Integração **Supabase** (Auth, RLS, Storage)
-- Padrões **WCAG AA**, componentes reutilizáveis e documentação visual
+- **Front:** Tailwind, shadcn/ui, temas e tokens do brand book
+- **Back:** Supabase (Auth, Postgres, RLS, Storage), fluxos server-side
+- WCAG AA, componentes reutilizáveis e documentação visual
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎮 Portal SafeZone (SZ)
-`2025 — 2026` · **Next.js 15 · Firebase**
+`2025 — 2026` · **Full Stack · Next.js 15 · Firebase**
 
-Hub da comunidade gamer: autenticação (Google/Discord), notícias, torneios, bracket, streams Twitch e i18n.
+Hub da comunidade gamer: auth (Google/Discord), Firestore, notícias, torneios, bracket, streams Twitch e i18n.
 
 🔗 [fortnitesz.com](https://www.fortnitesz.com/)
 
@@ -151,9 +150,9 @@ Manual de marca (~7 capítulos): princípios, logo, paleta, tipografia, tom de v
 
 Sempre busco aprender e evoluir. No momento, estou focado em:
 
-- Aprofundar **gerenciamento de estado** e padrões avançados em React
-- Consolidar fluxos **server-side** com Supabase e Next.js
-- Refinar **motion design** e microinterações sem sacrificar performance
+- Consolidar arquitetura **Full Stack** com Next.js + Supabase (server actions, RLS, edge)
+- Aprofundar **Node.js** e padrões de API em produção
+- Refinar **design systems**, motion e performance de ponta a ponta
 - Usar **IA no fluxo** (Cursor, v0, LLMs) com revisão humana e padrões de qualidade
 
 ---
@@ -180,7 +179,7 @@ Sempre busco aprender e evoluir. No momento, estou focado em:
 
 ## 🤝 Vamos nos conectar?
 
-Estou aberto a discutir **novos projetos**, **oportunidades de front-end** e **colaborações** em produtos digitais.
+Estou aberto a discutir **novos projetos**, **oportunidades Full Stack** e **colaborações** em produtos digitais.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fernando-cruz-620928303/)
 - 📧 [fernando.cruz.info@gmail.com](mailto:fernando.cruz.info@gmail.com)
@@ -188,4 +187,4 @@ Estou aberto a discutir **novos projetos**, **oportunidades de front-end** e **c
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,50:292524,100:44403c&height=80&section=footer&fontSize=14&fontColor=78716c&text=O%20melhor%20design%20t%C3%A9cnico%20%C3%A9%20aquele%20que%20parece%20simples.&animation=fadeIn"/>
+<sub><em>« O melhor design técnico é aquele que parece simples — porque alguém organizou a complexidade antes de você chegar. »</em></sub>
