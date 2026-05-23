@@ -1,8 +1,8 @@
 <!-- ═══════════════════════════════════════════════════════════════════
   PERFIL GITHUB — Fernando Cruz
-  Repositório: https://github.com/SEU_USUARIO/SEU_USUARIO
-  Antes de publicar: substitua todas as ocorrências de SEU_USUARIO
-  e os links marcados com (configurar) quando tiver URL do portfólio.
+  Repositório: https://github.com/Fernando-Cruz/Fernando-Cruz
+  Stats: serviço público anuraghazra está instável (503); usamos
+  activity-graph + streak-stats.demolab + shields.io.
 ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -18,7 +18,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfólio-1c1917?style=for-the-badge&logo=vercel&logoColor=e7e5e4)](https://SEU_DOMINIO_PORTFOLIO)
 [![SafeZone](https://img.shields.io/badge/SafeZone%20SZ-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://www.fortnitesz.com/)
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=visitas&abbreviated=true&color=44403c&style=flat-square" alt="visitas ao perfil"/>
+<img src="https://komarev.com/ghpvc/?username=Fernando-Cruz&label=visitas&abbreviated=true&color=44403c&style=flat-square" alt="visitas ao perfil"/>
 
 </div>
 
@@ -162,12 +162,17 @@ Sempre busco aprender e evoluir. No momento, estou focado em:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0c0a09&title_color=e7e5e4&icon_color=a8a29e&text_color=78716c&border_radius=8&rank_icon=github" alt="estatísticas do GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0c0a09&title_color=e7e5e4&text_color=78716c&border_radius=8&langs_count=8" alt="linguagens mais usadas"/>
+[![Seguidores](https://img.shields.io/github/followers/Fernando-Cruz?style=for-the-badge&logo=github&labelColor=1c1917&color=44403c)](https://github.com/Fernando-Cruz)
+[![Repositórios](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Reposit%C3%B3rios&labelColor=292524&color=57534e&query=public_repos&url=https://api.github.com/users/Fernando-Cruz)](https://github.com/Fernando-Cruz?tab=repositories)
+[![Desde](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=GitHub%20desde&labelColor=1c1917&color=44403c&query=created_at&url=https://api.github.com/users/Fernando-Cruz)](https://github.com/Fernando-Cruz)
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&background=0c0a09&ring=e7e5e4&fire=d6d3d1&currStreakLabel=e7e5e4&sideNums=78716c&currStreakNum=e7e5e4&sideLabels=78716c&dates=57534e" alt="sequência de contribuições"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fernando-Cruz&theme=react-dark&hide_border=true&bg_color=0c0a09&color=78716c&line=a8a29e&point=e7e5e4&area=true&height=280" alt="gráfico de contribuições"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Fernando-Cruz&hide_border=true&background=0c0a09&ring=e7e5e4&fire=d6d3d1&currStreakLabel=e7e5e4&sideNums=78716c&currStreakNum=e7e5e4&sideLabels=78716c&dates=57534e" alt="sequência de contribuições"/>
 
 </div>
 
@@ -184,5 +189,3 @@ Estou aberto a discutir **novos projetos**, **oportunidades de front-end** e **c
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,50:292524,100:44403c&height=80&section=footer&fontSize=14&fontColor=78716c&text=O%20melhor%20design%20t%C3%A9cnico%20%C3%A9%20aquele%20que%20parece%20simples.&animation=fadeIn"/>
-
-</div>
